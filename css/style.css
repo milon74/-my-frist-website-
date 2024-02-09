@@ -1,0 +1,23 @@
+h1{
+    color: red;
+    font-size: 70px;
+    text-align: center;
+    background-color: blue;
+    
+}
+H2{
+    color: aqua;
+    font-size: 50px;
+    
+}
+
+H3{
+    color: blue;
+    font-size: 40px;
+   
+}
+
+img{
+    width: 300px;
+    height: 300px;
+}
